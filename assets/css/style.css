@@ -31,7 +31,7 @@ a{
 }
 
 h2{
-  padding-left: 5%;
+  padding-left: 3%;
 }
 
 h3{
@@ -56,10 +56,11 @@ h3{
 
 #Connect_with_Me {
  
-  width: 35%;
+  width: 250px;
   float:left;
   background-color: aquamarine;
   margin-top: 30px;
+  padding-left: 20px;
   
   
 }
@@ -135,12 +136,12 @@ form{
 
 #Connect_with_Me_Port {
  
-  width: 33%;
+  width: 250px;
   float:left;
   background-color: aquamarine;
   margin-top: 30px;
   margin-bottom: 100px;
-  
+  padding-left: 20px;
 }
 
 
