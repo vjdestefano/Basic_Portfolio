@@ -15,7 +15,7 @@ body{
 header{
   background: #ffffff;
   text-decoration-line: none;
-  
+
 }
 
 h1{
@@ -173,3 +173,21 @@ form{
 
 }
 
+footer{
+  text-align: center;
+  width: 100%;
+  float: left;
+  background-color: black;
+  color: white;
+  line-height: 40px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.footerBox{
+  border-top-color: #4aaaa5;
+  border-top-width: 12;
+  border-top-style: solid;
+}
